@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/awaisbaloch0334">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%26+Backend;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40+NFC-IET;Business+development+that+closes+deals" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%26+Backend;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40+NFC-IET;APIs%2C+databases+%26+clean+responsive+UI" />
   </a>
 </p>
 
@@ -31,7 +31,6 @@ class MuhammadAwaisKhan {
   location   = "Multan, Pakistan 🇵🇰";
   education  = "BS Computer Science — NFC-IET, Multan (2022 – 2026)";
   focus      = "Frontend & backend engineering · AI-powered platforms";
-  alsoGoodAt = "Business development, lead generation & client relationships";
 
   shipping() {
     return [
@@ -41,8 +40,8 @@ class MuhammadAwaisKhan {
     ];
   }
 
-  howIWork() {
-    return "Cross-functional collaboration, from proposal to production";
+  buildingWith() {
+    return ["React", "Next.js", "TypeScript", "FastAPI", "PostgreSQL", "Neo4j"];
   }
 
   mantra = "user-focused, reliable, shipped";
@@ -128,29 +127,7 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 
 ---
 
-### 💼 Experience
-
-| Role | Company | Highlights |
-|---|---|---|
-| **Business Developer** | NMSoft Technologies — Multan _(2024–25)_ | Generated **$1,200+** in new revenue in a single month on Upwork; wrote **30+ proposals/week**; built relationships with **10+ international clients** in a month |
-
----
-
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awaisbaloch0334&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=awaisbaloch0334&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=awaisbaloch0334&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=awaisbaloch0334&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=awaisbaloch0334&theme=tokyonight&utcOffset=5" height="180" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=awaisbaloch0334&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=f0f6fc&currStreakLabel=38BDF8" alt="streak" />
@@ -159,6 +136,14 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisbaloch0334&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=2f81f7&point=f0f6fc" width="95%" />
 </p>
+
+<!--
+  Note: the summary/stat cards (github-readme-stats, github-profile-summary-cards)
+  return errors while the account has 0 public repositories. Add them back once
+  there are public repos to summarise, e.g.:
+  https://github-readme-stats.vercel.app/api?username=awaisbaloch0334&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&bg_color=0d1117
+-->
+
 
 ---
 
@@ -184,10 +169,10 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 
 ### ⚡ Fun Facts
 
-- 💰 Closed **$1,200+** in new business in a single month on Upwork
 - 🧠 Built the backend behind **11,000+ MCQs** for the Bytescore exam-prep app
 - 🕸️ Wired a **Neo4j knowledge graph + pgvector** matching engine for AidwiseAI
-- ✍️ Shipped **30+ client proposals a week** as a business developer
+- ⚙️ Ran **async pipelines** with Celery + Redis inside a FastAPI modular monolith
+- 🚢 Set up **CI/CD** with GitHub Actions and Docker Compose deployment
 - 🚀 Shipped Clarifyd's frontend to production in a 4-person cross-functional team
 
 ---
@@ -198,4 +183,4 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=120&section=footer" alt="footer" />
 
-<p align="center"><i>"From proposal to production — I like closing the loop."</i></p>
+<p align="center"><i>"Frontend that feels right, backend that holds up."</i></p>
