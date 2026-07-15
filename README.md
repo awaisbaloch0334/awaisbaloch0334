@@ -3,13 +3,15 @@
 <!--  Palette: azure #2f81f7 · cyan #38BDF8 · navy #0d1117              -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/awaisbaloch0334">
-  <img width="100%" alt="Muhammad Awais Khan — Software Engineer" src="https://raw.githubusercontent.com/awaisbaloch0334/awaisbaloch0334/main/assets/header.svg" />
-</a>
+<h1 align="center">Muhammad Awais Khan</h1>
+
+<p align="center">
+  <b>Software Engineer</b> &nbsp;·&nbsp; Frontend &amp; Backend &nbsp;·&nbsp; QA &amp; Testing &nbsp;·&nbsp; AI Platforms
+</p>
 
 <p align="center">
   <a href="https://github.com/awaisbaloch0334">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%26+Backend;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40;APIs%2C+databases+%26+clean+responsive+UI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%C2%B7+Backend+%C2%B7+QA;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40+NFC-IET;QA+%26+testing+that+ships+stable+releases" />
   </a>
 </p>
 
@@ -30,7 +32,7 @@ class MuhammadAwaisKhan {
   title      = "Software Engineer";
   location   = "Multan, Pakistan 🇵🇰";
   education  = "BS Computer Science — NFC-IET, Multan (2022 – 2026)";
-  focus      = "Frontend & backend engineering · AI-powered platforms";
+  focus      = "Frontend & backend engineering · QA & testing · AI platforms";
 
   shipping() {
     return [
@@ -72,12 +74,17 @@ class MuhammadAwaisKhan {
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
+**QA & Testing**
+
+![Manual Testing](https://img.shields.io/badge/Manual_%26_Functional_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression_Testing-FF6600?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 **Tools & Practices**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
