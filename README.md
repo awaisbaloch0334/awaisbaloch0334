@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/awaisbaloch0334">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%26+Backend;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40+NFC-IET;APIs%2C+databases+%26+clean+responsive+UI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%26+Backend;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40;APIs%2C+databases+%26+clean+responsive+UI" />
   </a>
 </p>
 
