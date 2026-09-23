@@ -6,12 +6,12 @@
 <h1 align="center">Muhammad Awais Khan</h1>
 
 <p align="center">
-  <b>Software Engineer</b> &nbsp;·&nbsp; Frontend &amp; Backend &nbsp;·&nbsp; QA &amp; Testing &nbsp;·&nbsp; AI Platforms
+  <b>AI Software Engineer</b> &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; RAG &amp; AI Automation
 </p>
 
 <p align="center">
   <a href="https://github.com/awaisbaloch0334">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%C2%B7+Backend+%C2%B7+QA;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40+NFC-IET;QA+%26+testing+that+ships+stable+releases" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer+%C2%B7+Full-Stack+Development;Frontend+%C2%B7+Backend+%C2%B7+QA+%26+Testing;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;RAG+%C2%B7+LLM+Integration+%C2%B7+AI+Automation+%C2%B7+pgvector;Computer+Science+Graduate+%C2%B7+NFC-IET+Multan" />
   </a>
 </p>
 
@@ -29,13 +29,16 @@
 
 ```ts
 class MuhammadAwaisKhan {
-  title      = "Software Engineer";
+  title      = "AI Software Engineer";
   location   = "Multan, Pakistan 🇵🇰";
   education  = "BS Computer Science — NFC-IET, Multan (2022 – 2026)";
-  focus      = "Frontend & backend engineering · QA & testing · AI platforms";
+  focus      = "Full-stack engineering · RAG · AI automation · QA & testing";
 
   shipping() {
     return [
+      "T-Rex — shared platform, scraper and RAG agent (internship team)",
+      "StackAssure — software quality analysis and testing",
+      "Parklock Engine — smart parking frontend and backend",
       "Clarifyd — AI legal assistant for startups (frontend)",
       "Bytescore — cross-platform exam prep (backend)",
       "AidwiseAI — AI scholarship matching (backend)",
@@ -43,7 +46,7 @@ class MuhammadAwaisKhan {
   }
 
   buildingWith() {
-    return ["React", "Next.js", "TypeScript", "FastAPI", "PostgreSQL", "Neo4j"];
+    return ["Python", "FastAPI", "React", "Next.js", "TypeScript", "PostgreSQL", "pgvector", "Redis", "Celery", "Docker"];
   }
 
   mantra = "user-focused, reliable, shipped";
@@ -55,6 +58,11 @@ class MuhammadAwaisKhan {
 ### 🛠️ Tech Stack
 
 <p align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
 **Frontend**
 
@@ -73,12 +81,28 @@ class MuhammadAwaisKhan {
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
+
+**AI Engineering & Automation**
+
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=2f81f7)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0d1117?style=for-the-badge&labelColor=2f81f7)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-0d1117?style=for-the-badge&labelColor=2f81f7)
+![AI Automation](https://img.shields.io/badge/AI_Automation-0d1117?style=for-the-badge&labelColor=2f81f7)
+![Embeddings](https://img.shields.io/badge/Embeddings-0d1117?style=for-the-badge&labelColor=2f81f7)
+![Semantic Retrieval](https://img.shields.io/badge/Semantic_Retrieval-0d1117?style=for-the-badge&labelColor=2f81f7)
 
 **QA & Testing**
 
 ![Manual Testing](https://img.shields.io/badge/Manual_%26_Functional_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression_Testing-FF6600?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 **Tools & Practices**
 
@@ -98,26 +122,23 @@ class MuhammadAwaisKhan {
 <tr>
 <td width="70%">
 
-**[AidwiseAI — AI Scholarship-Matching Platform](https://aidwiseai.com/)** · _Backend Developer_
+**T-Rex — AI-Powered Autonomous CRM & Outreach Platform** · _Internship team project_
 
-A scholarship-matching platform built by a 3-developer team over 16 weeks. I built the backend.
+I contributed to the shared platform, CRM integration, website knowledge base, and documentation assistant.
 
-- 🧩 **FastAPI** backend inside a **modular monolith** architecture
-- ⚙️ **Async data pipelines** with **Celery + Redis** for heavy processing
-- 🕸️ **PostgreSQL (pgvector)** for semantic search plus a **Neo4j** knowledge-graph layer for matching logic
-- 🚢 **CI/CD** via GitHub Actions and containerized deployment with **Docker Compose**
-
-`Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `pgvector` `Neo4j` `Docker`
+- Built the shared React/FastAPI platform foundation, auth and OTP flows, and Docker setup.
+- Built the TPI Engine and implemented HubSpot OAuth and lead synchronization.
+- Built the Scraper & Knowledge Base Engine for crawling, chunking, embeddings, and pgvector storage.
+- Built the Agent Engine for semantic retrieval and Groq-powered documentation RAG.
 
 </td>
 <td width="30%" align="center">
 
-🌐 Live at aidwiseai.com<br/>
-👥 3-developer team<br/>
-🗓️ 16-week build<br/>
-🧠 Graph + vector matching<br/>
-⚙️ Async Celery pipelines<br/>
-🚢 Dockerized CI/CD
+👥 Internship team project<br/>
+🧩 Shared platform + TPI<br/>
+🔗 HubSpot integration<br/>
+🕸️ Website knowledge base<br/>
+🤖 Documentation-grounded RAG
 
 </td>
 </tr>
@@ -129,8 +150,15 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 
 | Project | Role | What I did |
 |---|---|---|
-| **[Clarifyd.app](https://clarifyd.app/)** — AI legal assistant (FYP) | Frontend Developer | Responsive UI in React/Next.js + TypeScript, Clerk auth, wired the frontend to Node.js services; shipped to production with a 4-person team |
-| **[Bytescore.app](https://www.bytescore.app/)** — exam prep (HEC NSCT) | Backend Developer | Backend + DB for **11,000+ MCQs** across 10 competency areas; APIs for practice tests, timed mocks and analytics |
+| **[StackAssure](https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester)** — software quality analyzer | Full-stack project | Runs browser, API, performance, and dependency checks with AI-assisted reporting; validated on a controlled fixture with 11/11 seeded defects detected and 0 false positives. |
+| **[CampaignPilot AI](https://github.com/awaisbaloch0334/CampaignPilot-RAG-AI-EMAIL-CAMPAIGNER)** — email campaign platform | Full-stack project | FastAPI/React email campaigns with HubSpot contacts, Gemini drafts, and website-based retrieval. |
+| **[Embeddable RAG AI Chatbot](https://github.com/awaisbaloch0334/EMBEDDABLE-RAG-AI-CHATBOT)** | Full-stack project | Multi-tenant website ingestion and pgvector retrieval for an embeddable streaming chat widget. |
+| **Parklock Engine** — smart parking system ([frontend](https://github.com/awaisbaloch0334/parklock-engine-frontend) · [backend](https://github.com/awaisbaloch0334/parklock-engine-backend)) | Full-stack project | React parking dashboard and stress tests backed by Java/Spring Boot and PostgreSQL. |
+| **[AI DOCX Generator](https://github.com/awaisbaloch0334/AI-DOCX-GENERATOR)** | Backend project | FastAPI service for placeholder detection and style-preserving DOCX generation with e-signatures. |
+| **[MultiTools](https://github.com/awaisbaloch0334/MultiTools)** | Full-stack project | React/FastAPI utilities for images, PDFs, audio, and media. |
+| **[AidwiseAI](https://aidwiseai.com/)** — AI scholarship matching | Backend Developer | Built FastAPI backend and Celery/Redis pipelines with pgvector and Neo4j matching. |
+| **[Clarifyd.app](https://clarifyd.app/)** — AI legal assistant (FYP) | Frontend Developer | Built and shipped a responsive React/Next.js frontend with Clerk auth and Node.js integration. |
+| **[Bytescore.app](https://www.bytescore.app/)** — exam prep (HEC NSCT) | Backend Developer | Built backend and APIs for 11,000+ MCQs, practice tests, timed mocks, and analytics. |
 
 ---
 
@@ -143,13 +171,6 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisbaloch0334&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=2f81f7&point=f0f6fc" width="95%" />
 </p>
-
-<!--
-  Note: the summary/stat cards (github-readme-stats, github-profile-summary-cards)
-  return errors while the account has 0 public repositories. Add them back once
-  there are public repos to summarise, e.g.:
-  https://github-readme-stats.vercel.app/api?username=awaisbaloch0334&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&bg_color=0d1117
--->
 
 
 ---
@@ -181,11 +202,14 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 - ⚙️ Ran **async pipelines** with Celery + Redis inside a FastAPI modular monolith
 - 🚢 Set up **CI/CD** with GitHub Actions and Docker Compose deployment
 - 🚀 Shipped Clarifyd's frontend to production in a 4-person cross-functional team
+- 🧪 Built StackAssure to connect real test evidence to actionable DOCX reports
+- 🅿️ Built Parklock Engine across React and Spring Boot repositories
+- 🤖 Worked on T-Rex shared platform, website knowledge ingestion and RAG agent
 
 ---
 
 <p align="center">
-  <em>Last updated: July 2026 · stats refreshed live from GitHub</em>
+  <em>Last updated: September 2026 · stats refreshed live from GitHub</em>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=120&section=footer" alt="footer" />
