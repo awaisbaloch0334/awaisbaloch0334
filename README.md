@@ -6,12 +6,12 @@
 <h1 align="center">Muhammad Awais Khan</h1>
 
 <p align="center">
-  <b>Software Engineer</b> &nbsp;·&nbsp; Frontend &amp; Backend &nbsp;·&nbsp; QA &amp; Testing &nbsp;·&nbsp; AI Platforms
+  <b>AI Software Engineer</b> &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; RAG &amp; AI Automation
 </p>
 
 <p align="center">
   <a href="https://github.com/awaisbaloch0334">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%C2%B7+Frontend+%C2%B7+Backend+%C2%B7+QA;React+%7C+Next.js+%7C+TypeScript+%7C+FastAPI;Building+AI-powered+platforms+%40+NFC-IET;QA+%26+testing+that+ships+stable+releases" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer+%C2%B7+Full-Stack+Development;Frontend+%C2%B7+Backend+%C2%B7+QA+%26+Testing;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;RAG+%C2%B7+LLM+Integration+%C2%B7+AI+Automation+%C2%B7+pgvector;Computer+Science+Graduate+%C2%B7+NFC-IET+Multan" />
   </a>
 </p>
 
@@ -29,13 +29,16 @@
 
 ```ts
 class MuhammadAwaisKhan {
-  title      = "Software Engineer";
+  title      = "AI Software Engineer";
   location   = "Multan, Pakistan 🇵🇰";
   education  = "BS Computer Science — NFC-IET, Multan (2022 – 2026)";
-  focus      = "Frontend & backend engineering · QA & testing · AI platforms";
+  focus      = "Full-stack engineering · RAG · AI automation · QA & testing";
 
   shipping() {
     return [
+      "T-Rex — shared platform, scraper and RAG agent (internship team)",
+      "StackAssure — software quality analysis and testing",
+      "Parklock Engine — smart parking frontend and backend",
       "Clarifyd — AI legal assistant for startups (frontend)",
       "Bytescore — cross-platform exam prep (backend)",
       "AidwiseAI — AI scholarship matching (backend)",
@@ -43,7 +46,7 @@ class MuhammadAwaisKhan {
   }
 
   buildingWith() {
-    return ["React", "Next.js", "TypeScript", "FastAPI", "PostgreSQL", "Neo4j"];
+    return ["Python", "FastAPI", "React", "Next.js", "TypeScript", "PostgreSQL", "pgvector", "Redis", "Celery", "Docker"];
   }
 
   mantra = "user-focused, reliable, shipped";
@@ -98,26 +101,18 @@ class MuhammadAwaisKhan {
 <tr>
 <td width="70%">
 
-**[AidwiseAI — AI Scholarship-Matching Platform](https://aidwiseai.com/)** · _Backend Developer_
+**T-Rex — AI-Powered Autonomous CRM & Outreach Platform** · _Internship team project_
 
-A scholarship-matching platform built by a 3-developer team over 16 weeks. I built the backend.
-
-- 🧩 **FastAPI** backend inside a **modular monolith** architecture
-- ⚙️ **Async data pipelines** with **Celery + Redis** for heavy processing
-- 🕸️ **PostgreSQL (pgvector)** for semantic search plus a **Neo4j** knowledge-graph layer for matching logic
-- 🚢 **CI/CD** via GitHub Actions and containerized deployment with **Docker Compose**
-
-`Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `pgvector` `Neo4j` `Docker`
+A shared platform spanning outreach, CRM integration, website knowledge ingestion, and a documentation-grounded assistant. My contributions focused on the shared React and FastAPI foundation, first-party authentication and OTP flows, Docker, PostgreSQL/Supabase and Redis/Celery foundations, the central TPI engine, HubSpot OAuth and lead synchronization, and the scraper and RAG agent (crawling, chunking, embeddings, pgvector retrieval, Groq-powered answers).
 
 </td>
 <td width="30%" align="center">
 
-🌐 Live at aidwiseai.com<br/>
-👥 3-developer team<br/>
-🗓️ 16-week build<br/>
-🧠 Graph + vector matching<br/>
-⚙️ Async Celery pipelines<br/>
-🚢 Dockerized CI/CD
+👥 Internship team project<br/>
+🧩 Shared platform + TPI<br/>
+🔗 HubSpot integration<br/>
+🕸️ Website knowledge base<br/>
+🤖 Documentation-grounded RAG
 
 </td>
 </tr>
@@ -129,6 +124,13 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 
 | Project | Role | What I did |
 |---|---|---|
+| **[StackAssure](https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester)** — software quality analyzer | Full-stack project | Runs browser, API, performance and dependency checks; correlates evidence in a 22-section DOCX report. Detected 11/11 seeded defects with 0 false positives on a controlled fixture; 180/180 repository tests passed |
+| **[CampaignPilot AI](https://github.com/awaisbaloch0334/CampaignPilot-RAG-AI-EMAIL-CAMPAIGNER)** — email campaign platform | Full-stack project | FastAPI/React platform with HubSpot OAuth, contact management, Gemini-assisted email drafts and supporting website ingestion and vector retrieval |
+| **[Embeddable RAG AI Chatbot](https://github.com/awaisbaloch0334/EMBEDDABLE-RAG-AI-CHATBOT)** | Full-stack project | Multi-tenant website ingestion, PostgreSQL/pgvector retrieval and embeddable chat widget with streaming responses |
+| **Parklock Engine** — smart parking system ([frontend](https://github.com/awaisbaloch0334/parklock-engine-frontend) · [backend](https://github.com/awaisbaloch0334/parklock-engine-backend)) | Full-stack project | React parking grid, gate controls, stress-test UI and admin dashboard paired with a Java/Spring Boot, PostgreSQL backend |
+| **[AI DOCX Generator](https://github.com/awaisbaloch0334/AI-DOCX-GENERATOR)** | Backend project | FastAPI template processing, placeholder detection and style-preserving DOCX generation with rendered e-signatures |
+| **[MultiTools](https://github.com/awaisbaloch0334/MultiTools)** | Full-stack project | React/FastAPI utility suite for image editing, PDF manipulation, audio processing and media tools |
+| **[AidwiseAI](https://aidwiseai.com/)** — AI scholarship matching | Backend Developer | Built FastAPI backend, Celery/Redis pipelines and PostgreSQL/pgvector plus Neo4j matching for a 3-developer team |
 | **[Clarifyd.app](https://clarifyd.app/)** — AI legal assistant (FYP) | Frontend Developer | Responsive UI in React/Next.js + TypeScript, Clerk auth, wired the frontend to Node.js services; shipped to production with a 4-person team |
 | **[Bytescore.app](https://www.bytescore.app/)** — exam prep (HEC NSCT) | Backend Developer | Backend + DB for **11,000+ MCQs** across 10 competency areas; APIs for practice tests, timed mocks and analytics |
 
@@ -143,13 +145,6 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisbaloch0334&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=2f81f7&point=f0f6fc" width="95%" />
 </p>
-
-<!--
-  Note: the summary/stat cards (github-readme-stats, github-profile-summary-cards)
-  return errors while the account has 0 public repositories. Add them back once
-  there are public repos to summarise, e.g.:
-  https://github-readme-stats.vercel.app/api?username=awaisbaloch0334&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&bg_color=0d1117
--->
 
 
 ---
@@ -181,11 +176,14 @@ A scholarship-matching platform built by a 3-developer team over 16 weeks. I bui
 - ⚙️ Ran **async pipelines** with Celery + Redis inside a FastAPI modular monolith
 - 🚢 Set up **CI/CD** with GitHub Actions and Docker Compose deployment
 - 🚀 Shipped Clarifyd's frontend to production in a 4-person cross-functional team
+- 🧪 Built StackAssure to connect real test evidence to actionable DOCX reports
+- 🅿️ Built Parklock Engine across React and Spring Boot repositories
+- 🤖 Worked on T-Rex shared platform, website knowledge ingestion and RAG agent
 
 ---
 
 <p align="center">
-  <em>Last updated: July 2026 · stats refreshed live from GitHub</em>
+  <em>Last updated: September 2026 · stats refreshed live from GitHub</em>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=120&section=footer" alt="footer" />
