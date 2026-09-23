@@ -127,7 +127,7 @@ class MuhammadAwaisKhan {
 I contributed to the shared platform, CRM integration, website knowledge base, and documentation assistant.
 
 - Built the shared React/FastAPI platform foundation, auth and OTP flows, and Docker setup.
-- Worked on the TPI Engine, HubSpot OAuth, and lead synchronization.
+- Built the TPI Engine and implemented HubSpot OAuth and lead synchronization.
 - Built the Scraper & Knowledge Base Engine for crawling, chunking, embeddings, and pgvector storage.
 - Built the Agent Engine for semantic retrieval and Groq-powered documentation RAG.
 
@@ -150,7 +150,7 @@ I contributed to the shared platform, CRM integration, website knowledge base, a
 
 | Project | Role | What I did |
 |---|---|---|
-| **[StackAssure](https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester)** — software quality analyzer | Full-stack project | Runs browser, API, performance, and dependency checks and compiles findings into a DOCX report. |
+| **[StackAssure](https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester)** — software quality analyzer | Full-stack project | Runs browser, API, performance, and dependency checks with AI-assisted reporting; validated on a controlled fixture with 11/11 seeded defects detected and 0 false positives. |
 | **[CampaignPilot AI](https://github.com/awaisbaloch0334/CampaignPilot-RAG-AI-EMAIL-CAMPAIGNER)** — email campaign platform | Full-stack project | FastAPI/React email campaigns with HubSpot contacts, Gemini drafts, and website-based retrieval. |
 | **[Embeddable RAG AI Chatbot](https://github.com/awaisbaloch0334/EMBEDDABLE-RAG-AI-CHATBOT)** | Full-stack project | Multi-tenant website ingestion and pgvector retrieval for an embeddable streaming chat widget. |
 | **Parklock Engine** — smart parking system ([frontend](https://github.com/awaisbaloch0334/parklock-engine-frontend) · [backend](https://github.com/awaisbaloch0334/parklock-engine-backend)) | Full-stack project | React parking dashboard and stress tests backed by Java/Spring Boot and PostgreSQL. |
