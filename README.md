@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/awaisbaloch0334">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer+%C2%B7+Full-Stack+Development;Frontend+%C2%B7+Backend+%C2%B7+QA+%26+Testing;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;RAG+%C2%B7+LLM+Integration+%C2%B7+AI+Automation+%C2%B7+pgvector;Computer+Science+Graduate+%C2%B7+NFC-IET+Multan" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer+%C2%B7+Full-Stack+Developer;Frontend+%C2%B7+Backend+%C2%B7+QA+%26+Testing;RAG+%C2%B7+LLM+Integration+%C2%B7+AI+Automation;Computer+Science+Graduate+%C2%B7+NFC-IET+Multan" />
   </a>
 </p>
 
@@ -86,12 +86,12 @@ class MuhammadAwaisKhan {
 
 **AI Engineering & Automation**
 
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=2f81f7)
-![Vector Search](https://img.shields.io/badge/Vector_Search-0d1117?style=for-the-badge&labelColor=2f81f7)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-0d1117?style=for-the-badge&labelColor=2f81f7)
-![AI Automation](https://img.shields.io/badge/AI_Automation-0d1117?style=for-the-badge&labelColor=2f81f7)
-![Embeddings](https://img.shields.io/badge/Embeddings-0d1117?style=for-the-badge&labelColor=2f81f7)
-![Semantic Retrieval](https://img.shields.io/badge/Semantic_Retrieval-0d1117?style=for-the-badge&labelColor=2f81f7)
+![RAG](https://img.shields.io/badge/RAG-2F81F7?style=for-the-badge&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-2F81F7?style=for-the-badge&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-2F81F7?style=for-the-badge&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-2F81F7?style=for-the-badge&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-2F81F7?style=for-the-badge&logoColor=white)
+![Semantic Retrieval](https://img.shields.io/badge/Semantic_Retrieval-2F81F7?style=for-the-badge&logoColor=white)
 
 **QA & Testing**
 
@@ -169,7 +169,7 @@ I contributed to the shared platform, CRM integration, website knowledge base, a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisbaloch0334&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=2f81f7&point=f0f6fc" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisbaloch0334&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=38BDF8&amp;line=2f81f7&amp;point=f0f6fc" width="95%" />
 </p>
 
 
