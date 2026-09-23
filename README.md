@@ -89,6 +89,9 @@ class MuhammadAwaisKhan {
 ![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=2f81f7)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-0d1117?style=for-the-badge&labelColor=2f81f7)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-0d1117?style=for-the-badge&labelColor=2f81f7)
+![AI Automation](https://img.shields.io/badge/AI_Automation-0d1117?style=for-the-badge&labelColor=2f81f7)
+![Embeddings](https://img.shields.io/badge/Embeddings-0d1117?style=for-the-badge&labelColor=2f81f7)
+![Semantic Retrieval](https://img.shields.io/badge/Semantic_Retrieval-0d1117?style=for-the-badge&labelColor=2f81f7)
 
 **QA & Testing**
 
@@ -121,7 +124,12 @@ class MuhammadAwaisKhan {
 
 **T-Rex — AI-Powered Autonomous CRM & Outreach Platform** · _Internship team project_
 
-A shared platform spanning outreach, CRM integration, website knowledge ingestion, and a documentation-grounded assistant. My contributions focused on the shared React and FastAPI foundation, first-party authentication and OTP flows, Docker, PostgreSQL/Supabase and Redis/Celery foundations, the central TPI engine, HubSpot OAuth and lead synchronization, and the scraper and RAG agent (crawling, chunking, embeddings, pgvector retrieval, Groq-powered answers).
+I contributed to the shared platform, CRM integration, website knowledge base, and documentation assistant.
+
+- Built the shared React/FastAPI platform foundation, auth and OTP flows, and Docker setup.
+- Worked on the TPI Engine, HubSpot OAuth, and lead synchronization.
+- Built the Scraper & Knowledge Base Engine for crawling, chunking, embeddings, and pgvector storage.
+- Built the Agent Engine for semantic retrieval and Groq-powered documentation RAG.
 
 </td>
 <td width="30%" align="center">
@@ -142,15 +150,15 @@ A shared platform spanning outreach, CRM integration, website knowledge ingestio
 
 | Project | Role | What I did |
 |---|---|---|
-| **[StackAssure](https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester)** — software quality analyzer | Full-stack project | Runs browser, API, performance and dependency checks; correlates evidence in a 22-section DOCX report. Detected 11/11 seeded defects with 0 false positives on a controlled fixture; 180/180 repository tests passed |
-| **[CampaignPilot AI](https://github.com/awaisbaloch0334/CampaignPilot-RAG-AI-EMAIL-CAMPAIGNER)** — email campaign platform | Full-stack project | FastAPI/React platform with HubSpot OAuth, contact management, Gemini-assisted email drafts and supporting website ingestion and vector retrieval |
-| **[Embeddable RAG AI Chatbot](https://github.com/awaisbaloch0334/EMBEDDABLE-RAG-AI-CHATBOT)** | Full-stack project | Multi-tenant website ingestion, PostgreSQL/pgvector retrieval and embeddable chat widget with streaming responses |
-| **Parklock Engine** — smart parking system ([frontend](https://github.com/awaisbaloch0334/parklock-engine-frontend) · [backend](https://github.com/awaisbaloch0334/parklock-engine-backend)) | Full-stack project | React parking grid, gate controls, stress-test UI and admin dashboard paired with a Java/Spring Boot, PostgreSQL backend |
-| **[AI DOCX Generator](https://github.com/awaisbaloch0334/AI-DOCX-GENERATOR)** | Backend project | FastAPI template processing, placeholder detection and style-preserving DOCX generation with rendered e-signatures |
-| **[MultiTools](https://github.com/awaisbaloch0334/MultiTools)** | Full-stack project | React/FastAPI utility suite for image editing, PDF manipulation, audio processing and media tools |
-| **[AidwiseAI](https://aidwiseai.com/)** — AI scholarship matching | Backend Developer | Built FastAPI backend, Celery/Redis pipelines and PostgreSQL/pgvector plus Neo4j matching for a 3-developer team |
-| **[Clarifyd.app](https://clarifyd.app/)** — AI legal assistant (FYP) | Frontend Developer | Responsive UI in React/Next.js + TypeScript, Clerk auth, wired the frontend to Node.js services; shipped to production with a 4-person team |
-| **[Bytescore.app](https://www.bytescore.app/)** — exam prep (HEC NSCT) | Backend Developer | Backend + DB for **11,000+ MCQs** across 10 competency areas; APIs for practice tests, timed mocks and analytics |
+| **[StackAssure](https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester)** — software quality analyzer | Full-stack project | Runs browser, API, performance, and dependency checks and compiles findings into a DOCX report. |
+| **[CampaignPilot AI](https://github.com/awaisbaloch0334/CampaignPilot-RAG-AI-EMAIL-CAMPAIGNER)** — email campaign platform | Full-stack project | FastAPI/React email campaigns with HubSpot contacts, Gemini drafts, and website-based retrieval. |
+| **[Embeddable RAG AI Chatbot](https://github.com/awaisbaloch0334/EMBEDDABLE-RAG-AI-CHATBOT)** | Full-stack project | Multi-tenant website ingestion and pgvector retrieval for an embeddable streaming chat widget. |
+| **Parklock Engine** — smart parking system ([frontend](https://github.com/awaisbaloch0334/parklock-engine-frontend) · [backend](https://github.com/awaisbaloch0334/parklock-engine-backend)) | Full-stack project | React parking dashboard and stress tests backed by Java/Spring Boot and PostgreSQL. |
+| **[AI DOCX Generator](https://github.com/awaisbaloch0334/AI-DOCX-GENERATOR)** | Backend project | FastAPI service for placeholder detection and style-preserving DOCX generation with e-signatures. |
+| **[MultiTools](https://github.com/awaisbaloch0334/MultiTools)** | Full-stack project | React/FastAPI utilities for images, PDFs, audio, and media. |
+| **[AidwiseAI](https://aidwiseai.com/)** — AI scholarship matching | Backend Developer | Built FastAPI backend and Celery/Redis pipelines with pgvector and Neo4j matching. |
+| **[Clarifyd.app](https://clarifyd.app/)** — AI legal assistant (FYP) | Frontend Developer | Built and shipped a responsive React/Next.js frontend with Clerk auth and Node.js integration. |
+| **[Bytescore.app](https://www.bytescore.app/)** — exam prep (HEC NSCT) | Backend Developer | Built backend and APIs for 11,000+ MCQs, practice tests, timed mocks, and analytics. |
 
 ---
 
