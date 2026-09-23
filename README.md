@@ -59,6 +59,11 @@ class MuhammadAwaisKhan {
 
 <p align="center">
 
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,12 +81,25 @@ class MuhammadAwaisKhan {
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
+
+**AI Engineering & Automation**
+
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&labelColor=2f81f7)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0d1117?style=for-the-badge&labelColor=2f81f7)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-0d1117?style=for-the-badge&labelColor=2f81f7)
 
 **QA & Testing**
 
 ![Manual Testing](https://img.shields.io/badge/Manual_%26_Functional_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression_Testing-FF6600?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 **Tools & Practices**
 
