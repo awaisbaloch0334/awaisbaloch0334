@@ -27,8 +27,12 @@ class MuhammadAwaisKhan {
 
   shipping() {
     return [
-      "T-Rex — shared platform, scraper and RAG agent (internship team)",
-      "StackAssure — software quality analysis and testing",
+      "KnowSolveGrow — six live professional AI apps",
+      "Comparison Engine — live product comparison platform",
+      "T-Rex — shared platform, scraper and RAG agent (Cyberify internship)",
+      "StackAssure — software quality analysis and testing (Cyberify internship)",
+      "Embeddable RAG chatbot — website-grounded chat widget (Cyberify internship)",
+      "CampaignPilot — AI email campaigns (Cyberify internship)",
       "Parklock Engine — smart parking frontend and backend",
       "Clarifyd — AI legal assistant for startups (frontend)",
       "Bytescore — cross-platform exam prep (backend)",
@@ -71,11 +75,27 @@ class MuhammadAwaisKhan {
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Current work
+
+<table><tr><td width="50%" valign="top">
+<h4><a href="https://lex.knowsolvegrow.pk">KnowSolveGrow AI</a></h4>
+<p><strong>Ongoing</strong> · Six professional AI apps</p>
+<p>Separate live apps for legal, pharmacy, HR, medical, engineering, and architecture practice. Each app has its own frontend and backend.</p>
+<p><a href="https://lex.knowsolvegrow.pk">LEX</a> · <a href="https://rex.knowsolvegrow.pk">REX</a> · <a href="https://hera.knowsolvegrow.pk">HERA</a> · <a href="https://pam.knowsolvegrow.pk">PAM</a> · <a href="https://engi.knowsolvegrow.pk">ENGi</a> · <a href="https://pat.knowsolvegrow.pk">PAT</a></p>
+</td><td width="50%" valign="top">
+<h4><a href="https://thecomparisonengine.com">Comparison Engine</a></h4>
+<p><strong>Ongoing</strong> · Product comparison platform</p>
+<p>Contributed to the live platform: finOS, HomeCompare, AutoCompare, reseller tools, CSV import and export, role-based access, document checks, and biometrics.</p>
+<p><a href="https://thecomparisonengine.com">thecomparisonengine.com</a> · <a href="https://appliance-comparison.thecomparisonengine.com">HomeCompare</a> · <a href="https://autocompare.thecomparisonengine.com">AutoCompare</a></p>
+</td></tr></table>
+
+---
+
+### 🧪 Featured internship
 
 <table><tr><td width="70%" valign="top">
 <h4>T-Rex — AI-Powered Autonomous CRM &amp; Outreach Platform</h4>
-<p><em>Internship team project</em></p>
+<p><em>Cyberify internship team project</em></p>
 <p>I contributed to the shared platform, CRM integration, website knowledge base, and documentation assistant.</p>
 <ul><li>Built the shared React/FastAPI platform foundation, auth and OTP flows, and Docker setup.</li><li>Built the TPI Engine and implemented HubSpot OAuth and lead synchronization.</li><li>Built the Scraper &amp; Knowledge Base Engine for crawling, chunking, embeddings, and pgvector storage.</li><li>Built the Agent Engine for semantic retrieval and Groq-powered documentation RAG.</li></ul>
 </td><td width="30%" align="center" valign="middle"><sub>INTERNSHIP TEAM PROJECT</sub><br/><br/>Shared platform + TPI<br/>HubSpot integration<br/>Website knowledge base<br/>Documentation-grounded RAG</td></tr></table>
@@ -85,11 +105,11 @@ class MuhammadAwaisKhan {
 ### 📦 More Projects
 
 <table>
-<tr><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester">StackAssure</a></h4><p><strong>Full-stack project</strong> · Software quality analyzer</p><p>Runs browser, API, performance, and dependency checks with AI-assisted reporting; validated on a controlled fixture with 11/11 seeded defects detected and 0 false positives.</p></td><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/CampaignPilot-RAG-AI-EMAIL-CAMPAIGNER">CampaignPilot AI</a></h4><p><strong>Full-stack project</strong> · Email campaign platform</p><p>FastAPI/React email campaigns with HubSpot contacts, Gemini drafts, and website-based retrieval.</p><p><code>FastAPI</code> <code>React</code> <code>HubSpot</code></p></td></tr>
-<tr><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/EMBEDDABLE-RAG-AI-CHATBOT">Embeddable RAG AI Chatbot</a></h4><p><strong>Full-stack project</strong></p><p>Multi-tenant website ingestion and pgvector retrieval for an embeddable streaming chat widget.</p><p><code>pgvector</code> <code>RAG</code></p></td><td width="50%" valign="top"><h4>Parklock Engine</h4><p><strong>Full-stack project</strong> · Smart parking system</p><p>React parking dashboard and stress tests backed by Java/Spring Boot and PostgreSQL.</p><p><a href="https://github.com/awaisbaloch0334/parklock-engine-frontend">Frontend</a> · <a href="https://github.com/awaisbaloch0334/parklock-engine-backend">Backend</a></p><p><code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code></p></td></tr>
+<tr><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/StackAssure-QA-Analyzer-and-Tester">StackAssure</a></h4><p><strong>Cyberify internship</strong> · Software quality analyzer</p><p>Runs browser, API, performance, and dependency checks with AI-assisted reporting; validated on a controlled fixture with 11/11 seeded defects detected and 0 false positives.</p></td><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/CampaignPilot-RAG-AI-EMAIL-CAMPAIGNER">CampaignPilot AI</a></h4><p><strong>Cyberify internship</strong> · Email campaign platform</p><p>FastAPI/React email campaigns with HubSpot contacts, Gemini drafts, and website-based retrieval.</p><p><code>FastAPI</code> <code>React</code> <code>HubSpot</code></p></td></tr>
+<tr><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/EMBEDDABLE-RAG-AI-CHATBOT">Embeddable RAG AI Chatbot</a></h4><p><strong>Cyberify internship</strong> · Full-stack project</p><p>Multi-tenant website ingestion and pgvector retrieval for an embeddable streaming chat widget.</p><p><code>pgvector</code> <code>RAG</code></p></td><td width="50%" valign="top"><h4>Parklock Engine</h4><p><strong>Full-stack project</strong> · Smart parking system</p><p>React parking dashboard and stress tests backed by Java/Spring Boot and PostgreSQL. Live at <a href="https://parklock-engine-frontend.vercel.app">parklock-engine-frontend.vercel.app</a>.</p><p><a href="https://github.com/awaisbaloch0334/parklock-engine-frontend">Frontend</a> · <a href="https://github.com/awaisbaloch0334/parklock-engine-backend">Backend</a></p><p><code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code></p></td></tr>
 <tr><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/AI-DOCX-GENERATOR">AI DOCX Generator</a></h4><p><strong>Backend project</strong></p><p>FastAPI service for placeholder detection and style-preserving DOCX generation with e-signatures.</p><p><code>FastAPI</code></p></td><td width="50%" valign="top"><h4><a href="https://github.com/awaisbaloch0334/MultiTools">MultiTools</a></h4><p><strong>Full-stack project</strong></p><p>React/FastAPI utilities for images, PDFs, audio, and media.</p><p><code>React</code> <code>FastAPI</code></p></td></tr>
 <tr><td width="50%" valign="top"><h4><a href="https://aidwiseai.com/">AidwiseAI</a></h4><p><strong>Backend Developer</strong> · AI scholarship matching</p><p>Built FastAPI backend and Celery/Redis pipelines with pgvector and Neo4j matching.</p><p><code>FastAPI</code> <code>Celery</code> <code>Redis</code> <code>pgvector</code> <code>Neo4j</code></p></td><td width="50%" valign="top"><h4><a href="https://clarifyd.app/">Clarifyd.app</a></h4><p><strong>Frontend Developer</strong> · AI legal assistant (FYP)</p><p>Built and shipped a responsive React/Next.js frontend with Clerk auth and Node.js integration.</p><p><code>React</code> <code>Next.js</code> <code>Clerk</code> <code>Node.js</code></p></td></tr>
-<tr><td width="50%" valign="top"><h4><a href="https://www.bytescore.app/">Bytescore.app</a></h4><p><strong>Backend Developer</strong> · Exam prep (HEC NSCT)</p><p>Built backend and APIs for 11,000+ MCQs, practice tests, timed mocks, and analytics.</p></td><td width="50%" valign="top"><h4><a href="https://github.com/HaiderNaqvi-5/EMC-Veritas">EMC-Veritas</a></h4><p><strong>Contributor</strong></p><p>Certificate, leadership-recognition, and public-verification platform for the Event Management Club at NFC-IET Multan, covering administrative workflows, secure document issuance, templates, signatures, student records, and public verification.</p><p><code>FastAPI</code> <code>React</code> <code>Supabase</code> <code>Cloudflare Pages</code> <code>Render</code></p></td></tr>
+<tr><td width="50%" valign="top"><h4><a href="https://www.bytescore.app/">Bytescore.app</a></h4><p><strong>Backend Developer</strong> · Exam prep (HEC NSCT)</p><p>Built backend and APIs for 11,000+ MCQs, practice tests, timed mocks, and analytics.</p></td><td width="50%" valign="top"><h4><a href="https://github.com/HaiderNaqvi-5/EMC-Veritas">EMC-Veritas</a></h4><p><strong>Contributor</strong></p><p>Redesigned the admin workspace UI for the Event Management Club certificate and verification platform at NFC-IET Multan.</p><p><code>FastAPI</code> <code>React</code> <code>Supabase</code> <code>Cloudflare Pages</code> <code>Render</code></p></td></tr>
 </table>
 
 ---
@@ -117,6 +137,8 @@ class MuhammadAwaisKhan {
 
 ### ⚡ Fun Facts
 
+- 🧠 Built **KnowSolveGrow**, six live professional AI apps for legal, pharmacy, HR, medical, engineering, and architecture
+- 💳 Contributed to the **Comparison Engine** at thecomparisonengine.com, including finOS, HomeCompare, reseller tools, CSV import and export, access control, and document checks
 - 🧠 Built the backend behind **11,000+ MCQs** for the Bytescore exam-prep app
 - 🕸️ Wired a **Neo4j knowledge graph + pgvector** matching engine for AidwiseAI
 - ⚙️ Ran **async pipelines** with Celery + Redis inside a FastAPI modular monolith
@@ -128,6 +150,6 @@ class MuhammadAwaisKhan {
 
 ---
 
-<p align="center"><em>Last updated: September 2026 · stats refreshed live from GitHub</em></p>
+<p align="center"><em>Last updated: November 2026 · stats refreshed live from GitHub</em></p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=120&section=footer" alt="footer" />
 <p align="center"><i>"Frontend that feels right, backend that holds up."</i></p>
